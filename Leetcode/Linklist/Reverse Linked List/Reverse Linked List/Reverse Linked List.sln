@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse Linked List", "Reverse Linked List\Reverse Linked List.vcxproj", "{68453488-2DF3-4ABA-9766-44AF8FF22CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68453488-2DF3-4ABA-9766-44AF8FF22CC3}.Debug|x64.ActiveCfg = Debug|x64
+		{68453488-2DF3-4ABA-9766-44AF8FF22CC3}.Debug|x64.Build.0 = Debug|x64
+		{68453488-2DF3-4ABA-9766-44AF8FF22CC3}.Debug|x86.ActiveCfg = Debug|Win32
+		{68453488-2DF3-4ABA-9766-44AF8FF22CC3}.Debug|x86.Build.0 = Debug|Win32
+		{68453488-2DF3-4ABA-9766-44AF8FF22CC3}.Release|x64.ActiveCfg = Release|x64
+		{68453488-2DF3-4ABA-9766-44AF8FF22CC3}.Release|x64.Build.0 = Release|x64
+		{68453488-2DF3-4ABA-9766-44AF8FF22CC3}.Release|x86.ActiveCfg = Release|Win32
+		{68453488-2DF3-4ABA-9766-44AF8FF22CC3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326000DD-2B28-40D0-9887-0EC3DE154FDA}
+	EndGlobalSection
+EndGlobal
